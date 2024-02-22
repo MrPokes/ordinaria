@@ -1,0 +1,36 @@
+h1.white {
+    color: white;
+    }
+    
+    .color {
+    background-color: rgb(247, 140, 0);
+    
+    }
+
+    div.azulclaro {
+        background-color: aquamarine;
+        color: green;
+    }
+
+    div.tomate {
+        background-color: tomato;
+        height: 120px;
+        width: 2500px;
+        color: black;
+    }
+
+    div.form {
+    background-color: aquamarine;
+    width: 700px;
+    height: 200px;
+
+
+    }
+    p.letra {
+        font-weight: bold;
+    }
+
+    a:hover {
+        background-color: yellow;
+        color: red;
+    }
